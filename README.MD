@@ -4,4 +4,4 @@
 - Board is Displayed with Player's Selected Square Populated by An 'X'.
 - Computer's Turn is Generated and a Random Square is Selected and Populated by an 'O'.
 - This Method Continues until Three Symbols are in a Row.
-- The Player or Computer is Announced Winner or the Game Ends in a Tie.
+- The Player or Computer is Announced as Winner or the Game Ends in a Tie.
